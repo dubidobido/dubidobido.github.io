@@ -1,0 +1,42 @@
+body {
+    background-color: rgba(0,0,0,0.75);
+}
+
+h1{
+    color: rgb(00,255,00);
+    font-family: helvetica;
+    text-align: center;
+    font-size: 40px;
+}
+h3{
+	color: rgb(00,255,00);
+    font-family: helvetica;
+    font-style: italic;
+    text-align: left;
+
+}
+p, ul {
+	color: rgb(00,255,00);
+    font-family: helvetica;
+    text-align: left;
+
+}
+}
+.description {
+	font-size: 20px;
+}
+a {
+	text-decoration: none;
+	color: rgb(75,200,255);	
+}
+#important {
+	color:rgb(255,0,0);	
+	font-weight: bold;
+	font-size: 17px;
+
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
