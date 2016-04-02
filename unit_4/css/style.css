@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Cookie);
 @import url(https://fonts.googleapis.com/css?family=Rancho);
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic);
 
 body {
     background-color: rgba(0,0,0,0.75);
@@ -14,13 +15,13 @@ h1{
 }
 h3{
 	color: rgb(00,255,00);
-    font-family: helvetica;
+   font-family: 'Montserrat', sans-serif;
     font-style: italic;
     text-align: left;
 }
 p {
 	color: rgb(00,255,00);
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Old Standard TT', serif;
     text-align: left;
 }
 ul {
